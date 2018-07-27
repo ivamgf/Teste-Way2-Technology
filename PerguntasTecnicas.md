@@ -20,18 +20,33 @@ R: 1.O Angular JS e as versões Angular 2+ são indicados quando se trabalha em 
 R: 
 
 {
+
 	"dados_pessoais": {
+	
 		"nome": "Ivam",
+		
 		"Sobrenome": "Galvao Filho",
+		
 		"e-mail": "ivam.developer@gmail.com",
+		
 		"endereco": "Rua Aristides teixeira",
+		
 		"numero": 135,
+		
 		"complemento": "apto T03",
+		
 		"telefone": 048984127518
+		
 	},
+	
 	"caracteristicas": [
+	
 		"Profissional", "Dedicado", "Organizado", "Metódico"
+		
 	],
+	
 	"Profissão": "Desenvolvedor Front End",
+	
 	"Disponibilidade": true
+	
 }
