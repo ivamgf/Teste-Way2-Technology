@@ -9,6 +9,7 @@ import { FooterComponent } from './views/footer/footer.component';
 import { RankingComponent } from './views/pages/ranking/ranking.component';
 import { SobreComponent } from './views/pages/sobre/sobre.component';
 import { ContatosComponent } from './views/pages/contatos/contatos.component';
+import { OldRankingComponent } from './views/pages/old-ranking/old-ranking.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ContatosComponent } from './views/pages/contatos/contatos.component';
     FooterComponent,
     RankingComponent,
     SobreComponent,
-    ContatosComponent
+    ContatosComponent,
+    OldRankingComponent
   ],
   imports: [
     BrowserModule,
