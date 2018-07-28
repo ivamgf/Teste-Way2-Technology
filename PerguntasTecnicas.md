@@ -1,6 +1,9 @@
 # Perguntas Técnicas
 
 ## 1.Quanto tempo você usou para completar a solução apresentada? O que você faria se tivesse mais tempo?
+
+R: Para construir a aplicação e resolver o teste eu levei 4 dias, creio que poderia ter concluído em 2 dias com um computador melhor com mais memória e ambiente adequado de trabalho, mas com mais tempo teria trabalhado melhor o design e a responsividade.
+
 ## 2.Se usou algum framework javascript, qual foi o motivo de ter usado este? Caso contrário, por que não utilizou nenhum?
 
 R: O framework javascript que utilizei no teste foi o Angular 6, pois é o que tenho mais familiaridade e conhecimento técnico.
