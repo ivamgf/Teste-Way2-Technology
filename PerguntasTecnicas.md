@@ -18,7 +18,7 @@ R: 1.O Angular JS e as versões Angular 2+ são indicados quando se trabalha em 
 
 4. O framework Ionic já listei anteriormente, mas trata-se de um framework em Angular 2+ usada para desenvolvimento híbrido mobile.
 
-## 4.Descreva você mesmo utlizando json.
+## 4.Descreva você mesmo utilizando json.
 
 R: 
 
