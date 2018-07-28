@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { Http, HttpModule } from '@angular/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -9,7 +10,6 @@ import { FooterComponent } from './views/footer/footer.component';
 import { RankingComponent } from './views/pages/ranking/ranking.component';
 import { SobreComponent } from './views/pages/sobre/sobre.component';
 import { ContatosComponent } from './views/pages/contatos/contatos.component';
-import { OldRankingComponent } from './views/pages/old-ranking/old-ranking.component';
 
 @NgModule({
   declarations: [
@@ -19,12 +19,12 @@ import { OldRankingComponent } from './views/pages/old-ranking/old-ranking.compo
     FooterComponent,
     RankingComponent,
     SobreComponent,
-    ContatosComponent,
-    OldRankingComponent
+    ContatosComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpModule
   ],
   providers: [],
   bootstrap: [AppComponent]

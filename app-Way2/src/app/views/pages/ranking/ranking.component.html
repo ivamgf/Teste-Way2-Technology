@@ -1,11 +1,16 @@
 <section>
 <div class="list-group">
-  <a href="#" class="list-group-item list-group-item-action"><h4>Ranking do Brasileirão!</h4></a>
+  <a href="#" class="list-group-item list-group-item-action">
+    <img src='assets/images/soccer-ball.png' class='rounded-circle' alt='bola'>
+  </a>
+  <a href="#" class="list-group-item list-group-item-action">    
+    <div><h4>Ranking do Brasileirão 2017!</h4></div>    
+  </a>
   <a href="#" class="list-group-item list-group-item-action">
   <table class="table table-style">
     <thead class="thead-light font-style">
       <tr>
-        <th>Posição</th>
+        <th>Pos.</th>
         <th>Time</th>
         <th>Vitórias</th>
         <th>Empates</th>
@@ -13,23 +18,18 @@
         <th>Pontos</th>
       </tr>
     </thead>
-    <tbody>
+    <tbody *ngFor="let i of getData.standing" >
       <tr>
-        <td class='font-style'>1º</td>
-        <td class='font-style'>Corinthians</td>
-        <td class='font-style'>15</td>
-        <td class='font-style'>2</td>
-        <td class='font-style'>4</td>
-        <td class='font-style'>76</td>
+        <td class='font-style'>{{i.position}}</td>
+        <td class='font-style'>{{i.teamName}}</td>
+        <td class='font-style'>{{i.wins}}</td>
+        <td class='font-style'>{{i.draws}}</td>
+        <td class='font-style'>{{i.losses}}</td>
+        <td class='font-style'>{{i.points}}</td>
       </tr>
     </tbody>
   </table>
-  </a>
-  <a class="list-group-item list-group-item-action">
-    <div class="btn-group">
-      <button type="button" class="btn btn-success" routerLink="/old-ranking">Ranking de outras competições</button>
-    </div>
-  </a>
+  </a>  
 </div>
   
 </section>
