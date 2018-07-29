@@ -16,7 +16,7 @@ npm install -g @ angular / cli
 
 ng serve --open
 
-5-Para finalizar o projeto é necessário usar o seguinte no terminal:
+5-Para finalizar o projeto é necessário usar o seguinte comando no terminal:
 
 Ctrl + c
 
