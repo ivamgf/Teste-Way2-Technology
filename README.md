@@ -6,9 +6,9 @@ Para testar o aplicativo, você deve seguir estas etapas:
 
 1-Baixe o aplicativo usando a URL: https://drive.google.com/drive/u/0/folders/1R5LGt1et_rBIDEJR-xo4FTqpEitX15KG
 
-2-Depois de extrair a pasta, você pode usar qualquer IDE para abrir o projeto, mas a preferência pelo design no Angular 6 é o uso do Código do IDE Visual Studio.
+2-Depois de extrair a pasta, você pode usar qualquer IDE para abrir o projeto, mas a preferência no Angular 6 é o uso da IDE Visual Studio Code.
 
-3-No terminal deve-se inserir os seguintes comandos para instalação e atualização de pacotes e frameworks:
+3-No terminal deve-se inserir os seguintes comandos para instalação do Angular 6 e rodar a aplicação:
 
 npm install -g @ angular / cli
 
