@@ -16,6 +16,10 @@ npm install -g @ angular / cli
 
 ng serve --open
 
+### Obs.: 
+
+A aplicação depois de compilada roda usando Google Chrome, para rodar em outro browser copie a URL, http://localhost:4200/home para a barra de endereços URL de outro navegador e a aplicação irá rodar normalmente. Não foi realizado o Build da aplicação mas, neste documento existe instruções para realização do Build.
+
 5-Para finalizar o projeto é necessário usar o seguinte comando no terminal:
 
 Ctrl + c
