@@ -4,7 +4,7 @@ Repositório de teste Way2 Technology
 ## Instruções para rodar a aplicação (Autor: Ivam Galvão Filho):
 Para testar o aplicativo, você deve seguir estas etapas:
 
-1-Baixe o aplicativo usando a URL: https://drive.google.com/drive/u/0/folders/1R5LGt1et_rBIDEJR-xo4FTqpEitX15KG
+1-Baixe o aplicativo usando a URL: https://drive.google.com/drive/folders/1R5LGt1et_rBIDEJR-xo4FTqpEitX15KG?usp=sharing
 
 2-Depois de extrair a pasta, você pode usar qualquer IDE para abrir o projeto, mas a preferência no Angular 6 é o uso da IDE Visual Studio Code.
 
