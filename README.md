@@ -1,6 +1,28 @@
 # Teste-Way2-Technology
 Repositório de teste Way2 Technology
 
+## Instruções para rodar a aplicação (Autor: Ivam Galvão Filho):
+Para testar o aplicativo, você deve seguir estas etapas:
+
+1-Baixe o aplicativo usando a URL: https://drive.google.com/drive/u/0/folders/1R5LGt1et_rBIDEJR-xo4FTqpEitX15KG
+
+2-Depois de extrair a pasta, você pode usar qualquer IDE para abrir o projeto, mas a preferência pelo design no Angular 6 é o uso do Código do IDE Visual Studio.
+
+3-No terminal deve-se inserir os seguintes comandos para instalação e atualização de pacotes e frameworks:
+
+npm install -g @ angular / cli
+
+4-Para compilar o projeto o seguinte comando deve ser digitado no terminal:
+
+ng serve --open
+
+5-Para finalizar o projeto é necessário usar o seguinte no terminal:
+
+Ctrl + c
+
+### Nota:
+As seguintes principais dependências foram utilizadas no projeto: Angular 6, Npm, NodeJS, Bootstrap, Jquery e Sass. f) Os seguintes recursos também foram usados: Código do Microsoft Visual Studio, Postman, Jasmine, Karma, Protractor e GitKraken.
+
 # AppWay2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
