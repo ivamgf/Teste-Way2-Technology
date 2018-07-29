@@ -21,7 +21,9 @@ ng serve --open
 Ctrl + c
 
 ### Nota:
-As seguintes principais dependências foram utilizadas no projeto: Angular 6, Npm, NodeJS, Bootstrap, Jquery e Sass. f) Os seguintes recursos também foram usados: Código do Microsoft Visual Studio, Postman, Jasmine, Karma, Protractor e GitKraken.
+As seguintes principais dependências foram utilizadas no projeto: Angular 6, Npm, NodeJS, Bootstrap, Jquery e Sass. 
+
+Os seguintes recursos também foram usados: Microsoft Visual Studio Code, Postman, Jasmine, Karma, Protractor e GitKraken.
 
 # AppWay2
 
